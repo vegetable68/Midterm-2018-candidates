@@ -1,4 +1,4 @@
-This is a list of candidates for U.S. midterm election 2018 with their twitter handles, compiled by [Yiqing Hua](yiqing-hua.com) from Cornell Tech.
+This is a list of candidates for U.S. midterm election 2018 with their twitter handles, compiled by Yiqing Hua from Cornell Tech.
 
 **This is an ongoing project. Star for updates!**
 
@@ -36,4 +36,5 @@ Each line of the csv file represents a candidate Twitter account. This data was 
 
 ## Contact
 Yiqing Hua
+
 yiqing[at]cs[dot]cornell[dot]edu
