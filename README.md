@@ -1,6 +1,6 @@
 This is a list of candidates for U.S. midterm election 2018 with their twitter handles, compiled by [Yiqing Hua](yiqing-hua.com) from Cornell Tech.
 
-*This is an ongoing project. Star this project for updates!*
+**This is an ongoing project. Star this project for updates!**
 
 # List of Candidates
 We first retrieve the full list of candidates running for House and Senate, as well as gubernatorial candidates from [Ballotpedia](https://ballotpedia.org/List_of_candidates_running_in_U.S._Congress_elections,_2018).
