@@ -1,6 +1,18 @@
 This is a list of candidates for U.S. midterm election 2018 with their twitter handles, compiled by Yiqing Hua from Cornell Tech.
+This list is generated for the following publications:
 
-**This is an ongoing project. Star for updates!**
+* **Yiqing Hua**, Mor Naaman and Thomas Ristenpart.  
+`Characterizing Twitter Users Who Engage in Adversarial Interactions against Political Candidates`.  
+*Proc. the 2020 CHI Conference on Human Factors in Computing Systems (CHI 2020)*  
+**Honorable Mention**  
+[[pdf](http://vegetable68.github.io/papers/adversarial_user_chi2020.pdf)]
+
+* **Yiqing Hua**, Thomas Ristenpart and Mor Naaman.  
+`Towards Measuring Adversarial Twitter Interactions against Candidates in the US Midterm Elections`.  
+*Proc. the 14th Annual Conference on Weblogs and Social Media (ICWSM 2020)*  
+[[pdf](http://vegetable68.github.io/papers/adversarial_candidates_icwsm2020.pdf)]
+
+**Please cite if you'd like to use the data.**
 
 ## List of Candidates
 We first retrieve the full list of candidates running for House and Senate, as well as gubernatorial candidates from [Ballotpedia](https://ballotpedia.org/List_of_candidates_running_in_U.S._Congress_elections,_2018).
